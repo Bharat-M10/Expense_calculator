@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expense_calculator/static/css/main.c876816e.css",
+    "main.js": "/Expense_calculator/static/js/main.332dd738.js",
+    "static/js/787.2a767361.chunk.js": "/Expense_calculator/static/js/787.2a767361.chunk.js",
+    "index.html": "/Expense_calculator/index.html",
+    "main.c876816e.css.map": "/Expense_calculator/static/css/main.c876816e.css.map",
+    "main.332dd738.js.map": "/Expense_calculator/static/js/main.332dd738.js.map",
+    "787.2a767361.chunk.js.map": "/Expense_calculator/static/js/787.2a767361.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c876816e.css",
+    "static/js/main.332dd738.js"
+  ]
+}
